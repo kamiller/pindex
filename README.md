@@ -1,9 +1,9 @@
-pindex
-======
+#pindex#
+========
 
 #### pinboard.in OS X spotlight indexer ####
 
-This script is for the excellent http://pinboard.in bookmarking service.
+This requires an account with the excellent bookmarking service http://pinboard.in and OS X.
 
 It downloads and stores each bookmark as a separate .url file with all of the meta data included so OS X spotlight will index it properly, and when you click on the file it will open in your default browser.
 
