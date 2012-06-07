@@ -1,9 +1,11 @@
 pindex
 ======
 
-pinboard.in OS X spotlight indexer
+#### pinboard.in OS X spotlight indexer ####
 
-The script stores each bookmark as a separate .url file with all of the meta data included, and when you click on the file it will open in your default browser.
+This script is for the excellent http://pinboard.in bookmarking service.
+
+It downloads and stores each bookmark as a separate .url file with all of the meta data included so OS X spotlight will index it properly, and when you click on the file it will open in your default browser.
 
 I suggest a cron job to run the script once a day. The script takes three parameters, username, password, and the base directory to store the xml and individual .url files.  It stores the .url files in a bookmarks directory under the baseDir.
 
