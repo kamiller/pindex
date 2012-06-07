@@ -1,0 +1,2 @@
+#min	hour	mday	month	wday	command
+15	20	*	*	*	/usr/bin/ruby /Users/foo/bin/pindex.rb user pass /Users/foo/
