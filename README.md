@@ -18,6 +18,4 @@ I put the baseDir in my dropbox, so that my bookmarks will be automatically back
 	15	20	*	*	*	/usr/bin/ruby /Users/foo/pindex/pindex.rb user pass /Users/foo/
 
 
-## License ##
-
-[MIT License](http://kylemiller.com/mit-license)
+### [MIT License](http://kylemiller.com/mit-license) ###
